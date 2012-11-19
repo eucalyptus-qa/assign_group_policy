@@ -1,3 +1,17 @@
+assign_group_policy
+===================
+
+## Description
+
+Create groups with different policies and assign users
+
+## Procedure
+
+1. Create 3 Users
+2. Create 3 groups with different policies
+3. Assign each user to each group
+
+
 # Eucalyptus Testunit Framework
 
 Eucalyptus Testunit Framework is designed to run a list of test scripts written by Eucalyptus developers.
